@@ -20,11 +20,15 @@ Custom Elements
 Header Component: Fetches categories from the API and renders a dropdown for category selection.
 Main Component: Fetches products based on the selected category and renders them using the Card component.
 Card Component: Displays product information such as image, title, price, and description.
+
+
 API
 The project uses a public fake API to fetch product data. The API endpoints used are:
 
 Categories: /products/categories
 Products: /products and /products/category/{category}
+
+
 🌈 Styles
 The project uses modern CSS techniques to ensure a responsive and visually appealing design. Key styles include:
 
